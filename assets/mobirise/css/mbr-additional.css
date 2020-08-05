@@ -1213,8 +1213,13 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-s6OtwbjLcq {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+}
 .cid-s6OnQIybXk {
-  padding-top: 135px;
+  padding-top: 30px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
